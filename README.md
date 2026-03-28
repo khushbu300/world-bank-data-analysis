@@ -1,3 +1,5 @@
+# 🌍 World Bank Data Analysis
+
 ## Overview
 
 This project presents an interactive Power BI dashboard for analyzing global development indicators using World Bank open data across 7 domains — health, economy, poverty, trade, environment, technology and labour market.
