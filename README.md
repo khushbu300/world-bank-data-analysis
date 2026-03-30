@@ -1,4 +1,4 @@
-# 🌍 World Bank Data Analysis
+# 🌍 World Bank Data Analysis | Power BI Dashboard with Python API Integration
 
 ## Overview
 
