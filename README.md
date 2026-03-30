@@ -34,6 +34,11 @@ The dashboard enables comparison of 200+ countries and regions across multiple y
 - However, poverty reduction is uneven, with countries like Afghanistan and South Sudan showing limited progress.
 - Health outcomes are influenced by multiple interconnected factors such as healthcare investment, immunization, and mortality.
 
+## Dashboard Preview
+
+
+This dashboard provides interactive insights into global health, economic, and poverty indicators across countries.
+
 ## Data Source
 
 World Bank Open Data (public datasets)
