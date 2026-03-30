@@ -35,7 +35,7 @@ The dashboard enables comparison of 200+ countries and regions across multiple y
 - Health outcomes are influenced by multiple interconnected factors such as healthcare investment, immunization, and mortality.
 
 ## Dashboard Preview
-
+https://github.com/khushbu300/world-bank-data-analysis/blob/main/dashboard%20screenshot.png
 
 This dashboard provides interactive insights into global health, economic, and poverty indicators across countries.
 
