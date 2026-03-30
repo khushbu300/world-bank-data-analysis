@@ -9,11 +9,8 @@ The dashboard enables comparison of 200+ countries and regions across multiple y
 ## Objectives
 
 - Compare development indicators across 200+ countries and 7 domains
-
 - Analyze multi-year trends for key socio-economic metrics
-
 - Identify top and bottom performing countries using ranking-based views
-
 - Study the relationship between health expenditure and life expectancy
 - 
 
@@ -31,15 +28,10 @@ The dashboard enables comparison of 200+ countries and regions across multiple y
 ## Key Insights
 
 - Higher healthcare expenditure is associated with better life expectancy, indicating the importance of healthcare investment.
-
 - Immunization shows a strong positive relationship with life expectancy and a negative relationship with mortality rates.
-
 - Mortality indicators have a strong negative correlation with life expectancy, significantly impacting population health.
-
 - Economic indicators such as GDP and trade show steady growth trends over time.
-
 - However, poverty reduction is uneven, with countries like Afghanistan and South Sudan showing limited progress.
-
 - Health outcomes are influenced by multiple interconnected factors such as healthcare investment, immunization, and mortality.
 
 ## Data Source
