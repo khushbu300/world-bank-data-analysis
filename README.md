@@ -39,7 +39,6 @@ The dashboard enables comparison of 200+ countries and regions across multiple y
 
 ## Dashboard Preview
 
-![Dashboard](./dashboard%20screenshot.png)
 
 This dashboard provides interactive insights into global health, economic, and poverty indicators across countries.
 
