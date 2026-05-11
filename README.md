@@ -19,23 +19,42 @@ The dashboard enables comparison of 200+ countries and regions across multiple y
 
 ## Key Business Questions Answered
 
-- What is the overall economic and development landscape across countries?
-- Which regions invest more in health (% of GDP)?
-- How have key indicators changed over time?
-- Is there a relationship between internet usage and immunization rates?
-- Does increased internet penetration impact unemployment?
-- Which countries are top and bottom performers in poverty reduction?
-- How are health indicators like expenditure and life expectancy related?
-- Does higher health spending improve life expectancy?
+- How do GDP, trade, health expenditure, and growth indicators define the global economic landscape?
+- Which regions demonstrate the highest healthcare investment levels?
+- How are socio-economic and sustainability indicators evolving over time?
+- Does higher internet penetration contribute to improved immunization outcomes?
+- What is the impact of internet access on unemployment trends?
+- Which countries are underperforming in poverty reduction efforts?
+- Which countries are leading in poverty reduction performance?
+- What relationships exist among major health indicators?
+- Does increased healthcare spending influence life expectancy?
+
+
 
 ## Key Insights
 
-- Higher healthcare expenditure is associated with better life expectancy, indicating the importance of healthcare investment.
-- Immunization shows a strong positive relationship with life expectancy and a negative relationship with mortality rates.
-- Mortality indicators have a strong negative correlation with life expectancy, significantly impacting population health.
-- Economic indicators such as GDP and trade show steady growth trends over time.
-- However, poverty reduction is uneven, with countries like Afghanistan and South Sudan showing limited progress.
-- Health outcomes are influenced by multiple interconnected factors such as healthcare investment, immunization, and mortality.
+- A positive relationship exists between healthcare expenditure and life expectancy across most regions, indicating that higher investment in healthcare generally contributes to improved population health outcomes.
+  
+- In contrast, regions such as East Asia & Pacific, North America, South Asia, and Sub-Saharan Africa show a declining trend in life expectancy despite increased healthcare expenditure, suggesting the influence of additional factors such as lifestyle diseases, healthcare accessibility, inequality, or demographic challenges.
+  
+- Internet penetration experienced significant growth after 2019–2020, reflecting accelerated digital adoption during and after the pandemic period.
+Youth unemployment rates peaked during 2020–2021 across most regions, highlighting the economic disruption and labor market instability caused by the COVID-19 pandemic.
+
+- North America recorded the highest healthcare expenditure as a percentage of GDP, demonstrating a strong focus on healthcare investment, while Sub-Saharan Africa allocated the lowest share toward healthcare spending.
+  
+- Mobile cellular subscriptions showed strong growth until 2022, followed by a slight decline in 2023, indicating market saturation or changing digital consumption patterns.
+  
+- Individuals using the internet increased by approximately 9.64% in 2024 compared to 2023, showing continued expansion of digital connectivity worldwide.
+  
+- The correlation analysis indicates a strong positive relationship between immunization rates and life expectancy, suggesting that preventive healthcare measures significantly improve long-term health outcomes.
+  
+- Regions with higher internet penetration also tend to demonstrate better immunization coverage, highlighting the role of digital access in improving awareness and information dissemination.
+  
+- Countries with stronger poverty reduction performance are generally associated with higher economic growth, increased digital access, and improved socio-economic indicators.
+  
+- Renewable energy consumption trends remained relatively stable over the years, while internet and mobile adoption indicators experienced faster growth, emphasizing rapid technological transformation globally.
+  
+- Forest area percentages showed limited fluctuation over time, indicating relatively stable environmental coverage despite increasing urbanization and industrial activity.
 
 ## Dashboard Preview
 
