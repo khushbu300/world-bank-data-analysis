@@ -6,7 +6,7 @@ Built an interactive Power BI dashboard using World Bank data to analyze global 
 ## Overview
 
 This project presents an interactive Power BI dashboard for analyzing global development indicators using World Bank open data across 7 domains — health, economy, poverty, trade, environment, technology and labour market.
-The dashboard enables comparison of 200+ countries and regions across multiple years and supports trend-based analysis using 20+ development indicators.
+The dashboard enables comparison of 200+ countries and regions across multiple years and supports trend-based analysis using 10+ development indicators.
 
 
 ## Objectives
