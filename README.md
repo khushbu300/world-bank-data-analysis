@@ -57,7 +57,7 @@ Youth unemployment rates peaked during 2020–2021 across most regions, highligh
 - Forest area percentages showed limited fluctuation over time, indicating relatively stable environmental coverage despite increasing urbanization and industrial activity.
 
 ## Dashboard Preview
-![Dashboard Preview](World_indicator_analysis_dashboard.png)
+![Dashboard Preview](dashboard_preview.png)
 
 This dashboard provides interactive insights into global health, economic, and poverty indicators across countries.
 
